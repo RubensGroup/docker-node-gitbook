@@ -35,11 +35,6 @@ gitbook init docs
     ],
     "theme-default": {
         "showLevel": true
-    },
-    "links": {        
-        "sidebar": {
-            "Repositorio Oficial": "https://customlink.com"
-        }
     }
   }
 
