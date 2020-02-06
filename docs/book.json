@@ -1,0 +1,17 @@
+{
+    "title": "GitBook",
+    "description": "Test Book GitBook",
+    "author": "3rm",
+    "plugins": [
+      "lunr",
+      "fontsettings",
+      "highlight",
+      "livereload",
+      "-sharing",
+      "back-to-top-button",
+      "search"
+    ],
+    "theme-default": {
+        "showLevel": true
+    }
+  }

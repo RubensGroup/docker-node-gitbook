@@ -3,7 +3,7 @@
 - [Documentación oficial](https://docs.gitbook.com/)
 - [Configuraciones especiales](https://gitbookio.gitbooks.io/documentation/content/format/index.html)
 
-### Creación de imagen Docker localmente
+### Creación de imagen Docker
 Entrar en la carpeta `docker-node-gitbook`, para generar la imagen Docker localmente
 ```sh 
 docker build  -t docker-node-gitbook  .
@@ -45,7 +45,6 @@ gitbook init docs
 
 ```
 > **Instalar depedencias**: Todos las dependencias configuradas en el archivo `book.json`, se instalan de la siguiente manera.
-
 ```sh 
 docker run -it --rm \
 -v $(pwd):/docker-node-gitbook \

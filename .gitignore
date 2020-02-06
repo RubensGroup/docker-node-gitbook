@@ -5,6 +5,9 @@
 !/tmp/.keep
 tmp-*/
 
+*_book
+*node_modules
+
 #Files from project if exist a error and override this repo
 *_book
 *package-lock.json

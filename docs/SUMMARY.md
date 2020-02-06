@@ -1,0 +1,24 @@
+# Summary
+Example book, for more detail on the use of Markdown see the references section`This text isn't compiled`
+
+## Gitbook with Markdown
+* [Gitbook](README.md)
+    * [Headers & Rules](markdown/headers_and_rules.md)
+    * [Typographic/Emphasis/Blockquotes](markdown/typographic_and_emphasis.md)
+    * [Lists](markdown/lists.md)
+    * [Code](markdown/code.md)
+    * [Tables](markdown/tables.md)
+    * [Links](markdown/links.md)
+    * [Images](markdown/images/README.md)
+        * [Minion](markdown/images/minion.md)
+        * [Stormtroopocat](markdown/images/stormtroopocat.md)
+        * [Dojocat](markdown/images/dojocat.md)
+    * [Footnotes/Definition Lists/More...](markdown/more.md)
+
+    
+## Docker to build Gitbook
+* [Gitbook in Docker](README-DOCKER-GITHUB.md)
+
+## References
+* [References](REFERENCES.md)
+   
