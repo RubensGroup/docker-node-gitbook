@@ -1,0 +1,15 @@
+# Ignore all logfiles and tempfiles.
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+tmp-*/
+
+#Files from project if exist a error and override this repo
+*_book
+*package-lock.json
+
+# Ignore Byebug command history file.
+.byebug_history
+.DS_Store
+.idead

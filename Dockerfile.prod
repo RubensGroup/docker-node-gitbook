@@ -1,0 +1,7 @@
+#copiar este archivo en el directorio de su proyecto Gitbook
+FROM nginx:1.15-alpine
+LABEL maintainer_name="Roger R Reyes M."
+LABEL maintainer_email="r3m@tundervirld.com"
+LABEL build_date="31-01-2020"
+COPY _book /usr/share/nginx/html
+EXPOSE 80
