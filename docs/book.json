@@ -9,8 +9,15 @@
       "livereload",
       "-sharing",
       "back-to-top-button",
-      "search"
+      "search",
+      "forkmegithub"
     ],
+    "pluginsConfig": {
+        "forkmegithub": {
+          "url": "https://github.com/RubensGroup/docker-node-gitbook.git",
+          "color":"red"
+        }
+    },
     "theme-default": {
         "showLevel": true
     }
